@@ -1,0 +1,31 @@
+{
+  "name": "cloud1.0",
+  "version": "1.0.0",
+  "description": "cloud1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmpfinallycomehere/Vuecomponents.git"
+  },
+  "keywords": [
+    "vue",
+    "+",
+    "router",
+    "+",
+    "axios",
+    "+",
+    "+",
+    "vuex",
+    "+",
+    "常用组件封装"
+  ],
+  "author": "cloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmpfinallycomehere/Vuecomponents/issues"
+  },
+  "homepage": "https://github.com/mmpfinallycomehere/Vuecomponents#readme"
+}
